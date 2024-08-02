@@ -1,18 +1,19 @@
-# API Documentation
+**[API Documentation ](https://documenter.getpostman.com/view/36737395/2sA3kdBJ63)**
+# Task Manager API Documentation
 
 ## Endpoints
 
-### GET /albums
-Returns a list of albums.
+### GET /tasks
+Returns a list of tasks.
 
-### GET /albums/:id
-Returns a specific album by ID.
+### GET /tasks/:id
+Returns a specific task by ID.
 
-### POST /albums
-Adds a new album.
+### POST /tasks
+Adds a new task.
 
-### PUT /albums/:id
-Updates an existing album by ID.
+### PUT /tasks/:id
+Updates an existing task by ID.
 
-### DELETE /albums/:id
-Deletes an album by ID.
+### DELETE /tasks/:id
+Deletes a task by ID.
