@@ -1,8 +1,8 @@
 package main
 
 import (
-	"task1.go/task7/task_manager/Delivery/routers"
-	"task1.go/task7/task_manager/database"
+	"task1.go/task8/Testing/Delivery/routers"
+	"task1.go/task8/Testing/database"
 )
 
 func main() {

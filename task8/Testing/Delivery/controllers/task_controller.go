@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"task1.go/task7/task_manager/Domain"
-	"task1.go/task7/task_manager/Usecase"
+	"task1.go/task8/Testing/Domain"
+	"task1.go/task8/Testing/Usecase"
 )
 
 type TaskController struct {

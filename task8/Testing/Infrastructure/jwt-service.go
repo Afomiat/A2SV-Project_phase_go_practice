@@ -2,7 +2,7 @@ package Infrastructure
 
 import (
 	"github.com/golang-jwt/jwt"
-	"task1.go/task7/task_manager/Domain"
+	"task1.go/task8/Testing/Domain"
 )
 
 func GenerateToken(user Domain.User) (string, error) {
